@@ -1,2 +1,10 @@
 # h5ls
-List contents of h5 file
+Python package to list contents of h5 file in a nice format and show dimensions and dtype of data.
+
+## Installation
+
+Install directly from github
+
+```
+pip install git+
+```
