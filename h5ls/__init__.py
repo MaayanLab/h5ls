@@ -24,6 +24,5 @@ def log_hdf_file(hdf_file, maxlen):
 
 def h5ls(filename):
     maxlen = maxlength(filename)
-    print(maxlen)
     with h5.File(filename) as f:
         log_hdf_file(f, maxlen)
