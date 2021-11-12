@@ -6,5 +6,5 @@ Python package to list contents of h5 file in a nice format and show dimensions 
 Install directly from github
 
 ```
-pip install git+
+pip install git+https://github.com/MaayanLab/h5ls.git
 ```
